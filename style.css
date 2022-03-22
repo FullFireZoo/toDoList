@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 15px;
+}
+li {
+    display: flex;
+    font-size: 50px;
+    gap: 25px;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    width: 40px;
+    height: 40px;
+}
